@@ -9,7 +9,7 @@ The program asks the user to enter some text, then uses Python's built-in `hashl
 
 1. Make sure you have Python installed.
 2. Run the script:
-3. 3. Enter any text when prompted.
+3. Enter any text when prompted.
 4. The SHA-256 hash of your text will be printed.
 
 
